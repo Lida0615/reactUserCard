@@ -5,12 +5,12 @@ import './userCardPage.css'
 const UserCArdPage = () => {
   return (
     <div className='UserCArdPage'>
-          <UserCard name="Lida"/>
-          <UserCard name="Lida"/>
-          <UserCard name="Lida"/>
-          <UserCard name="Lida"/>
-          <UserCard name="Lida"/>
-          <UserCard name="Lida"/>
+          <UserCard name="Imran"/>
+          <UserCard name="Islam"/>
+          <UserCard name="Ahmed"/>
+          <UserCard name="Magomed"/>
+          <UserCard name="Zeinap"/>
+          <UserCard name="Islam"/>
           <UserCard name="Lida"/>
     </div>
   )
