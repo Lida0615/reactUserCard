@@ -1,0 +1,53 @@
+.usercard{
+    width: 307px;
+    height: 315px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    padding: 32px 29px;
+    border-radius: 10px;
+background: #FFF;
+box-shadow: 0px 0px 10px 2px rgba(0, 0, 0, 0.25);
+}
+
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+border: 2px solid #4FAAFF;
+}
+h2{
+   
+color: #000;
+font-family: Krona One;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+p{
+    color: #000;
+text-align: center;
+font-family: Inter;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+a{
+    display: flex;
+width: 248px;
+padding: 8px 0px;
+justify-content: center;
+align-items: center;
+border-radius: 10px;
+background: #4FAAFF;
+color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}

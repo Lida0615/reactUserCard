@@ -1,0 +1,8 @@
+.UserCArdPage{
+    max-width: 1267px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    gap: 20px 13px;
+}
